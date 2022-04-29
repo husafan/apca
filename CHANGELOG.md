@@ -1,6 +1,7 @@
 0.24.0
 ------
 - Made more types serializable/deserializable
+- Added `order_class` member to `api::v2::order::Order` type
 - Renamed various `Trade*` types to `Order*`
 - Removed `#[non_exhaustive]` attribute from various types
 
